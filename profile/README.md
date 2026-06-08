@@ -1,6 +1,6 @@
 <h1 align="center">Sigma Rocks</h1>
 <p align="center">
-  ![Sigma Rocks Banner](https://api.sigmarocks.com/wp-content/uploads/2026/06/github.jpg)
+  <img src="https://api.sigmarocks.com/wp-content/uploads/2026/06/github.jpg" alt="Sigma Rocks Banner">
 </p>
 
 <p align="center">
